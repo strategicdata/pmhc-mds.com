@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title></title>
+		<description></description>		
+		<link>http://www.pmhc-mds.com</link>
+		<atom:link href="http://www.pmhc-mds.com/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Update to the PMHC MDS - 24/6/2021</title>
+				        
+				
+					<description>&lt;h4 id=&quot;pmhc-mds-update-v1110&quot;&gt;PMHC MDS Update v1.11.0&lt;/h4&gt;
+
+&lt;p&gt;We are pleased to announce that PMHC MDS Update v1.11.0 was released on June 14, 2021.&lt;/p&gt;
+
+&lt;p&gt;The following change has been implemented in the reports interface:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Updated the W1: Wayback quarterly report template.
+    &lt;ul&gt;
+      &lt;li&gt;Added links from the template to the user documentation&lt;/li&gt;
+      &lt;li&gt;Changed the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Client Measures and Experience&lt;/code&gt; section to report the Number
+of Initial, Review and Exit Measures completed during the period instead
+of the number of pairs of matched outcome measures.&lt;/li&gt;
+      &lt;li&gt;Added &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Number of On-Time Events&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Number of Events&lt;/code&gt; into the
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Key Performance Indicators&lt;/code&gt; section. These are the numerator and
+denominator used to calculate the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;% Achieved During Reporting Period&lt;/code&gt;.
+These have been added to assist organisations who are attempting to
+reproduce the KPI results.&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;p&gt;This new template also includes a table for the manual reporting of the
+‘Consent to participate in TWBSS’ data, you &lt;em&gt;do not&lt;/em&gt; need to report this
+for the Q4 April-June 2021 submission.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The following bugfix has been implemented in the data entry interface:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Updated the guide descriptions when viewing a WHO-5.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+				
+				<pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate>
+				<link>http://www.pmhc-mds.com/2021/06/24/Update-to-the-PMHC-MDS-v-1-11-0/</link>
+				<guid isPermaLink="true">http://www.pmhc-mds.com/2021/06/24/Update-to-the-PMHC-MDS-v-1-11-0/</guid>
+			</item>
+		
+			<item>
+				<title>PMHC MDS outage scheduled for 9pm AEST Thursday 10th June 2021</title>
+				        
+				
+					<description>&lt;h4 id=&quot;pmhc-mds-outage-scheduled-for-9pm-aest-thursday-10th-june-2021&quot;&gt;PMHC MDS outage scheduled for 9pm AEST Thursday 10th June 2021&lt;/h4&gt;
+
+&lt;p&gt;PMHC MDS outage scheduled for 9pm AEST Thursday 10th June 2021&lt;/p&gt;
+
+&lt;p&gt;We will be upgrading part of our infrastructure on Thursday 10th June 2021
+between 9:00pm and 10:00pm AEST.&lt;/p&gt;
+
+&lt;p&gt;We expect the outage to be brief, however the system could be interrupted
+for up to an hour.&lt;/p&gt;
+
+&lt;p&gt;If you are planning on uploading or entering any data during this time, we
+advise you to complete your work before 9:00pm AEST.&lt;/p&gt;
+
+&lt;p&gt;Thank-you for your patience whilst this work is carried out.&lt;/p&gt;
+</description>
+				
+				<pubDate>Fri, 04 Jun 2021 00:00:00 +0000</pubDate>
+				<link>http://www.pmhc-mds.com/2021/06/04/PMHC-MDS-scheduled-outage/</link>
+				<guid isPermaLink="true">http://www.pmhc-mds.com/2021/06/04/PMHC-MDS-scheduled-outage/</guid>
+			</item>
+		
+			<item>
+				<title>Update to the PMHC MDS - 10/5/2021</title>
+				        
+				
+					<description>&lt;h4 id=&quot;pmhc-mds-update-v1101&quot;&gt;PMHC MDS Update v1.10.1&lt;/h4&gt;
+
+&lt;p&gt;We are pleased to announce that PMHC MDS Update v1.10.1 was released on
+May 10, 2021.&lt;/p&gt;
+
+&lt;p&gt;The following feature has been implemented in the reports interface:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;A new report - G1: Residential Aged Care Facility Client Outcomes has been
+added when the PMHC data source is selected. This report summarises activity
+and outcomes for episodes delivered at least partly at residential aged care
+facilities.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+				
+				<pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
+				<link>http://www.pmhc-mds.com/2021/05/10/Update-to-the-PMHC-MDS-v-1-10-1/</link>
+				<guid isPermaLink="true">http://www.pmhc-mds.com/2021/05/10/Update-to-the-PMHC-MDS-v-1-10-1/</guid>
+			</item>
+		
+			<item>
+				<title>Update to the PMHC MDS - 3/5/2021</title>
+				        
+				
+					<description>&lt;h4 id=&quot;pmhc-mds-update-v1100&quot;&gt;PMHC MDS Update v1.10.0&lt;/h4&gt;
+
+&lt;p&gt;We are pleased to announce that PMHC MDS Update v1.10.0 was released on May 3,
+2021.&lt;/p&gt;
+
+&lt;p&gt;The following feature has been implemented in the data entry interface:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;The tags input field will now offer suggestions for tags that have already
+been used on the same entity type within the Provider Organisation.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The following bugfix has been implemented in the data entry interface:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Fixed a bug where the start and end date filters were not working on
+all Organisations tabs.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The user guides have been updated to reflect these updates. They are available at:&lt;/p&gt;
+
+&lt;p&gt;PMHC - &lt;a href=&quot;https://docs.pmhc-mds.com/projects/user-documentation/en/latest/&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/projects/user-documentation/en/latest/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;HeadtoHelp - &lt;a href=&quot;https://docs.pmhc-mds.com/projects/data-specification-headtohelp/en/v3/&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/projects/data-specification-headtohelp/en/v3/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The Way Back - &lt;a href=&quot;https://docs.pmhc-mds.com/projects/data-specification-wayback/en/v3/&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/projects/data-specification-wayback/en/v3/&lt;/a&gt;&lt;/p&gt;
+</description>
+				
+				<pubDate>Mon, 03 May 2021 00:00:00 +0000</pubDate>
+				<link>http://www.pmhc-mds.com/2021/05/03/Update-to-the-PMHC-MDS-v-1-10-0/</link>
+				<guid isPermaLink="true">http://www.pmhc-mds.com/2021/05/03/Update-to-the-PMHC-MDS-v-1-10-0/</guid>
+			</item>
+		
+			<item>
+				<title>Update to the PMHC MDS - 13/4/2021</title>
+				        
+				
+					<description>&lt;h4 id=&quot;pmhc-mds-update-v196&quot;&gt;PMHC MDS Update v1.9.6&lt;/h4&gt;
+
+&lt;p&gt;We are pleased to announce that PMHC MDS Update v1.9.6 was released on
+April 13, 2021.&lt;/p&gt;
+
+&lt;p&gt;The following bugfix has been implemented in the upload interface:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Provide a more informative error when duplicate TWB Needs Identification
+records are provided in the same upload.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The following bugfix has been implemented in the reports interface:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Fixed a bug in the W1: Wayback quarterly reporting template where the
+template could not be opened if strings containing the characters &amp;amp;&amp;lt;&amp;gt; were
+part of the generated report.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The user guides have been updated to reflect these updates. They are available at:&lt;/p&gt;
+
+&lt;p&gt;PMHC - &lt;a href=&quot;https://docs.pmhc-mds.com/projects/user-documentation/en/latest/&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/projects/user-documentation/en/latest/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;HeadtoHelp - &lt;a href=&quot;https://docs.pmhc-mds.com/projects/data-specification-headtohelp/en/v3/&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/projects/data-specification-headtohelp/en/v3/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The Way Back - &lt;a href=&quot;https://docs.pmhc-mds.com/projects/data-specification-wayback/en/v3/&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/projects/data-specification-wayback/en/v3/&lt;/a&gt;&lt;/p&gt;
+</description>
+				
+				<pubDate>Tue, 13 Apr 2021 00:00:00 +0000</pubDate>
+				<link>http://www.pmhc-mds.com/2021/04/13/Update-to-the-PMHC-MDS-v-1-9-6/</link>
+				<guid isPermaLink="true">http://www.pmhc-mds.com/2021/04/13/Update-to-the-PMHC-MDS-v-1-9-6/</guid>
+			</item>
+		
+			<item>
+				<title>Update to the PMHC MDS - 1/4/2021</title>
+				        
+				
+					<description>&lt;h4 id=&quot;pmhc-mds-update-v194&quot;&gt;PMHC MDS Update v1.9.4&lt;/h4&gt;
+
+&lt;p&gt;We are pleased to announce that PMHC MDS Update v1.9.4 will be released on
+April 1, 2021.&lt;/p&gt;
+
+&lt;p&gt;The following functionality will be added to the reporting interface:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Added ‘W3: Data Quality Report: Missing TWB Episode data’ has been added to
+the Wayback reporting tab. This report can be used to monitor the quality of
+TWB Episode data by showing the rate of unknown values associated with
+fields on the TWB Episode record.&lt;/li&gt;
+  &lt;li&gt;Added ‘W4: Data Quality Report: Missing TWB Needs Identification and
+Recommendation Outs’ has been added to the Wayback reporting tab. This
+report can be used to monitor the quality of TWB Episode data by showing
+the rate of TWB Episodes that do not have TWB Needs Identification and/or
+Recommendation Out records associated with the TWB Episode.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The user guides have been updated to reflect these updates. They are available at:&lt;/p&gt;
+
+&lt;p&gt;PMHC - &lt;a href=&quot;https://docs.pmhc-mds.com/projects/user-documentation/en/latest/&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/projects/user-documentation/en/latest/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;HeadtoHelp - &lt;a href=&quot;https://docs.pmhc-mds.com/projects/data-specification-headtohelp/en/v3/&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/projects/data-specification-headtohelp/en/v3/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The Way Back - &lt;a href=&quot;https://docs.pmhc-mds.com/projects/data-specification-wayback/en/v3/&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/projects/data-specification-wayback/en/v3/&lt;/a&gt;&lt;/p&gt;
+</description>
+				
+				<pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+				<link>http://www.pmhc-mds.com/2021/04/01/Update-to-the-PMHC-MDS-v-1-9-4/</link>
+				<guid isPermaLink="true">http://www.pmhc-mds.com/2021/04/01/Update-to-the-PMHC-MDS-v-1-9-4/</guid>
+			</item>
+		
+			<item>
+				<title>Update to the PMHC MDS - 27/3/2021</title>
+				        
+				
+					<description>&lt;h4 id=&quot;pmhc-mds-update-v192&quot;&gt;PMHC MDS Update v1.9.2&lt;/h4&gt;
+
+&lt;p&gt;We are pleased to announce that PMHC MDS Update v1.9.2 was released on
+March 27, 2021.&lt;/p&gt;
+
+&lt;p&gt;The following bugfixes have been implemented in the reporting interface:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Fixed a bug where the Wayback Quarterly report (W1) always generated a
+report for the last quarter, irrespective of the date range selected.&lt;/li&gt;
+  &lt;li&gt;Fixed a timeout in the A9 report.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The user guides have been updated to reflect these updates. They are available at:&lt;/p&gt;
+
+&lt;p&gt;PMHC - &lt;a href=&quot;https://docs.pmhc-mds.com/projects/user-documentation/en/latest/&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/projects/user-documentation/en/latest/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;HeadtoHelp - &lt;a href=&quot;https://docs.pmhc-mds.com/projects/data-specification-headtohelp/en/v3/&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/projects/data-specification-headtohelp/en/v3/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The Way Back - &lt;a href=&quot;https://docs.pmhc-mds.com/projects/data-specification-wayback/en/v3/&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/projects/data-specification-wayback/en/v3/&lt;/a&gt;&lt;/p&gt;
+</description>
+				
+				<pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
+				<link>http://www.pmhc-mds.com/2021/03/27/Update-to-the-PMHC-MDS-v-1-9-2/</link>
+				<guid isPermaLink="true">http://www.pmhc-mds.com/2021/03/27/Update-to-the-PMHC-MDS-v-1-9-2/</guid>
+			</item>
+		
+			<item>
+				<title>Update to the PMHC MDS - 18/3/2021</title>
+				        
+				
+					<description>&lt;h4 id=&quot;pmhc-mds-update-v190&quot;&gt;PMHC MDS Update v1.9.0&lt;/h4&gt;
+
+&lt;p&gt;We are pleased to announce that PMHC MDS Update v1.9.0 was released on
+March 18, 2021.&lt;/p&gt;
+
+&lt;p&gt;The following functionality has been added to the data entry interface:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;The data entry interface has been changed so that the user is presented
+with a list of clients when they navigate to the data entry tab. Instead
+of searching for a client, and then filtering, finding a client has been
+reduced to a one step process of simply filtering.&lt;/li&gt;
+  &lt;li&gt;A ‘View Clients’ tab has been added to the ‘Practitioner Details’ tab to
+allow viewing all the clients for a particular practitioner.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The following functionality has been added to the reporting interface:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;An extra report ‘W2: High level summary of overall volumes by entity has
+been added to the Wayback reporting tab. This is a variation on the
+‘A1: High level summary of overall volumes by entity’ report that is
+tailored to filter on active episodes (episodes that have one or more
+service contacts recorded in the period) that have an associated TWB
+Episode record.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The user guides have been updated to reflect these updates. They are available at:&lt;/p&gt;
+
+&lt;p&gt;PMHC - &lt;a href=&quot;https://docs.pmhc-mds.com/projects/user-documentation/en/latest/&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/projects/user-documentation/en/latest/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;HeadtoHelp - &lt;a href=&quot;https://docs.pmhc-mds.com/projects/data-specification-headtohelp/en/v3/&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/projects/data-specification-headtohelp/en/v3/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The Way Back - &lt;a href=&quot;https://docs.pmhc-mds.com/projects/data-specification-wayback/en/v3/&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/projects/data-specification-wayback/en/v3/&lt;/a&gt;&lt;/p&gt;
+</description>
+				
+				<pubDate>Thu, 18 Mar 2021 00:00:00 +0000</pubDate>
+				<link>http://www.pmhc-mds.com/2021/03/18/Update-to-the-PMHC-MDS-v-1-9-0/</link>
+				<guid isPermaLink="true">http://www.pmhc-mds.com/2021/03/18/Update-to-the-PMHC-MDS-v-1-9-0/</guid>
+			</item>
+		
+			<item>
+				<title>Update to the PMHC MDS and HeadtoHelp Data Specification- 25/2/2021</title>
+				        
+				
+					<description>&lt;h4 id=&quot;pmhc-mds-update-v182&quot;&gt;PMHC MDS Update v1.8.2&lt;/h4&gt;
+
+&lt;p&gt;We are pleased to announce that PMHC MDS Update v1.8.2 was released on
+February 25, 2021.&lt;/p&gt;
+
+&lt;p&gt;The following functionality has been added to the data entry interface:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Added Practitioner Level of Care to the IAR-DST Measure which can be
+associated with a HeadtoHelp (!covid19) tagged episode.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The following functionality has been added to the upload interface:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Added Practitioner Level of Care to the IAR-DST Measure which is required
+when uploading using the HeadtoHelp Hubs v3 Specification.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The following improvement has been made in the reporting interface:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;The A12 report has been updated to include information about shared
+episodes “as lead organisations” and “as delivery organisations”. More
+information is available at
+&lt;a href=&quot;https://docs.pmhc-mds.com/projects/user-documentation/en/latest/reporting.html#a12-episodes-shared-across-multiple-organisations&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/projects/user-documentation/en/latest/reporting.html#a12-episodes-shared-across-multiple-organisations&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The following bug fix has been implemented in uploads:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Fixed a bug in v3 specification uploads (The Way Back and HeadtoHelp)
+where an appropriate error was not returned when checking the collection
+occasion date against the episode end date.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The following bug fix has been implemented in data extracts:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Fixed a bug where some keys were incorrectly being interpreted as a
+scientific number causing an error in Excel.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;headtohelp-hubs-data-specification-update-v302&quot;&gt;HeadtoHelp Hubs Data Specification Update v3.0.2&lt;/h4&gt;
+
+&lt;p&gt;We are also pleased to announce that the HeadtoHelp Data Specifications
+update v3.0.2 was released on February 25, 2021. The following updates have
+been implemented:&lt;/p&gt;
+
+&lt;h5 id=&quot;data-model-and-specifications-headtohelp-v3-0-2&quot;&gt;Data model and specifications&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Added &lt;a href=&quot;https://docs.pmhc-mds.com/projects/data-specification-headtohelp/en/v3/data-specification/data-model-and-specifications.html#iar-dst-practitioner-level-of-care&quot; target=&quot;_blank&quot;&gt;IAR-DST - Practitioner Level of Care&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;pmhc-mds-upload-changes&quot;&gt;PMHC MDS Upload changes&lt;/h4&gt;
+
+&lt;p&gt;We are also pleased to announce that changes have been made to improve the security
+of PMHC MDS uploads.&lt;/p&gt;
+
+&lt;p&gt;Uploads will be rejected by our incoming data scanning system if they do not
+meet the following requirements.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Must be either an Excel Workbook (.xlsx),&lt;/li&gt;
+  &lt;li&gt;OR a zip (.zip) file containing CSV files,&lt;/li&gt;
+  &lt;li&gt;AND must be less than 512MB&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The first and second of these requirements were enforced already however
+files will be rejected at an earlier stage in the process after this update
+and as a consequence the behaviour of the system when files are rejected for
+this reason will be slightly different.&lt;/p&gt;
+
+&lt;p&gt;The file size restriction prevents our systems from becoming unstable if
+extremely large files are uploaded. We will monitor if this limit causes
+issues for anyone and adjust it if necessary.&lt;/p&gt;
+
+&lt;p&gt;The user guides have been updated to reflect these updates. They are available at:&lt;/p&gt;
+
+&lt;p&gt;PMHC - &lt;a href=&quot;https://docs.pmhc-mds.com/projects/user-documentation/en/latest/&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/projects/user-documentation/en/latest/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;HeadtoHelp - &lt;a href=&quot;https://docs.pmhc-mds.com/projects/data-specification-headtohelp/en/v3/&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/projects/data-specification-headtohelp/en/v3/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The Way Back - &lt;a href=&quot;https://docs.pmhc-mds.com/projects/data-specification-wayback/en/v3/&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/projects/data-specification-wayback/en/v3/&lt;/a&gt;&lt;/p&gt;
+</description>
+				
+				<pubDate>Thu, 25 Feb 2021 00:00:00 +0000</pubDate>
+				<link>http://www.pmhc-mds.com/2021/02/25/Update-to-the-PMHC-MDS-v-1-8-2-and-HeadtoHelp-Data-Specification-v-3-0-2/</link>
+				<guid isPermaLink="true">http://www.pmhc-mds.com/2021/02/25/Update-to-the-PMHC-MDS-v-1-8-2-and-HeadtoHelp-Data-Specification-v-3-0-2/</guid>
+			</item>
+		
+			<item>
+				<title>Planned changes for PMHC MDS uploads - 25/2/2021</title>
+				        
+				
+					<description>&lt;p&gt;On the evening of 25 February 2021 changes will be made to improve the security
+of PMHC MDS uploads.&lt;/p&gt;
+
+&lt;p&gt;Uploads will be rejected by our incoming data scanning system if they do not
+meet the following requirements.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Must be either an Excel Workbook (.xlsx),&lt;/li&gt;
+  &lt;li&gt;OR a zip (.zip) file containing CSV files,&lt;/li&gt;
+  &lt;li&gt;AND must be less than 512MB&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The first and second of these requirements were enforced already however
+files will be rejected at an earlier stage in the process after this update
+and as a consequence the behaviour of the system when files are rejected for
+this reason will be slightly different.&lt;/p&gt;
+
+&lt;p&gt;The file size restriction prevents our systems from becoming unstable if
+extremely large files are uploaded. We will monitor if this limit causes
+issues for anyone and adjust it if necessary.&lt;/p&gt;
+
+&lt;p&gt;The user guides have been updated to reflect these updates. They are available at:&lt;/p&gt;
+
+&lt;p&gt;PMHC - &lt;a href=&quot;https://docs.pmhc-mds.com/projects/user-documentation/en/latest/&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/projects/user-documentation/en/latest/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;HeadtoHelp - &lt;a href=&quot;https://docs.pmhc-mds.com/projects/data-specification-headtohelp/en/v3/&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/projects/data-specification-headtohelp/en/v3/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The Way Back - &lt;a href=&quot;https://docs.pmhc-mds.com/projects/data-specification-wayback/en/v3/&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/projects/data-specification-wayback/en/v3/&lt;/a&gt;&lt;/p&gt;
+</description>
+				
+				<pubDate>Wed, 24 Feb 2021 00:00:00 +0000</pubDate>
+				<link>http://www.pmhc-mds.com/2021/02/24/Planned-changes-for-PMHC-MDS-uploads/</link>
+				<guid isPermaLink="true">http://www.pmhc-mds.com/2021/02/24/Planned-changes-for-PMHC-MDS-uploads/</guid>
+			</item>
+		
+	</channel>
+</rss>
